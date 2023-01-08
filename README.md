@@ -2,7 +2,7 @@
 
 **`Digital Nomad (Developer/Artist)`**
 
-I'm a full-stack developer and artist. Currently, I'm working on developing a range of skills, going from digital art, design, and maybe 3D modeling to development (game, web, software), among other interests. All the projects are built from the ground up, from idealizing, planning, and designing to solving real-life problems. I hope a few years from now to look back at this Github Profile and see the progress and how much I've progressed.
+I'm a full-stack developer and artist. Currently, I'm working on developing a range of skills, going from digital art, design, and maybe 3D modeling to development (game, web, software), among other interests. All the projects are built from the ground up, from idealizing, planning, and designing to solving real-life problems. I hope a few years from now to look back at this Github Profile and see the progress and how much I've improved.
 
 <!--
 **SonyKaf/SonyKaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
